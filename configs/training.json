@@ -1,5 +1,4 @@
 {
-  "output": {
-    "path": "output"
-  }
+  "data_path": "data/training.csv",
+  "output_path": "output"
 }

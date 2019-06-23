@@ -1,5 +1,5 @@
 {
-  "output": {
-    "path": "output"
-  }
+  "data_path": "data/application.csv",
+  "model_path": "output/model.pickle",
+  "output_path": "output"
 }
