@@ -1,4 +1,4 @@
-# Example Prediction
+# Example: Prediction
 
 See “[A poor man’s orchestration of predictive models, or do it
 yourself][article]” for further details.
