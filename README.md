@@ -7,13 +7,13 @@ yourself][article]” for further details.
 
 In order to train a model, run
 
-```bash
+```sh
 make training
 ```
 
 In order to apply a trained model, run
 
-```bash
+```sh
 make application
 ```
 
